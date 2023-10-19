@@ -1,6 +1,6 @@
-- 👋 Hello. I am Mauricio Lopez-Soto, father of 3 boys, husband of one woman, software developer.
+- 👋 Hello. I am Mauricio Lopez-Soto, father of 3 boys, husband, software developer.
 - 👀 I’m interested in cycling, cooking and good craft beer. I also like working on research projects.
-- 🌱 I’m learning how to live more in the moment. I am working on my AWS Solutions Architect Associate certification. Adter that, I want to learn about reactive programming and get better at functional programming.
+- 🌱 I’m learning how to live more in the moment. I want to learn about reactive programming and get better at functional programming.
 - 📫 How to reach me: https://www.linkedin.com/in/mauriciolopezsoto/
 
 <!---
